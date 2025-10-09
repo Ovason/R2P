@@ -1,4 +1,4 @@
-# R2P
+# Mathematica computations for the parabola paper 
 This repository contains all Mathematica notebooks and computation scripts used in the proofs of **Theorems 3.1** and **3.2** of the paper *“Quadratic systems with two invariant real straight lines and an invariant parabola.”*
 
 The scripts are organized following the logical and textual order of the paper, so that each computation corresponds directly to a specific step in the proofs.  
